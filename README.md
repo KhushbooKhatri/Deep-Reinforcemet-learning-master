@@ -1,1 +1,1 @@
-# Deep-Reinforcemet-learning-master
+Implementation of multiple openAi gym environmets using deep reinforcement learning techniques.
